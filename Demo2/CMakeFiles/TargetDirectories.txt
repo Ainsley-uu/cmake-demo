@@ -1,0 +1,3 @@
+/home/daina/实验室/cmake-demo/Demo2/CMakeFiles/rebuild_cache.dir
+/home/daina/实验室/cmake-demo/Demo2/CMakeFiles/Demo.dir
+/home/daina/实验室/cmake-demo/Demo2/CMakeFiles/edit_cache.dir

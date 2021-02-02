@@ -1,0 +1,6 @@
+/home/daina/实验室/cmake-demo/Demo4/CMakeFiles/rebuild_cache.dir
+/home/daina/实验室/cmake-demo/Demo4/CMakeFiles/Demo.dir
+/home/daina/实验室/cmake-demo/Demo4/CMakeFiles/edit_cache.dir
+/home/daina/实验室/cmake-demo/Demo4/math/CMakeFiles/rebuild_cache.dir
+/home/daina/实验室/cmake-demo/Demo4/math/CMakeFiles/MathFunctions.dir
+/home/daina/实验室/cmake-demo/Demo4/math/CMakeFiles/edit_cache.dir
